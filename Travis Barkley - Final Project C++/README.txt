@@ -1,0 +1,1 @@
+This project's purpose was to create an algorithm for accessing certain data in a text file, while utilizing passwords and multiple accessing modes. My project is a banking app in which you can deposit and with drawl money into a password protected account. There is also an admin login that can see everyone's data. 
